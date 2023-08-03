@@ -90,6 +90,13 @@
       "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 13
+    },
+    {
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 14
     }
   ]
 }
